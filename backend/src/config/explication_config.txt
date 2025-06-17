@@ -1,0 +1,5 @@
+Ce dossier sert à centraliser toutes les configurations importantes du backend, comme :
+
+la connexion à la base de données (MySQL)
+
+des paramètres globaux (ex : config mail, JWT, etc.)

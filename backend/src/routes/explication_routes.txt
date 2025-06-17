@@ -1,0 +1,9 @@
+Les routes sont les adresses URL que le frontend appelle.
+
+Exemple :
+
+GET /api/users → pour obtenir tous les utilisateurs
+
+POST /api/login → pour se connecter
+
+Elles redirigent vers le bon controller.

@@ -1,0 +1,7 @@
+Ici, on écrit ce que chaque route doit faire (réponse au frontend).
+
+Gère les demandes (ex: afficher les utilisateurs, ajouter un membre)
+
+Utilise les models pour interagir avec la base
+
+Renvoie une réponse JSON au frontend

@@ -1,0 +1,5 @@
+Les models sont les fonctions qui parlent directement à la base MySQL :
+
+SELECT, INSERT, UPDATE, DELETE
+
+Séparer les requêtes SQL de la logique métier

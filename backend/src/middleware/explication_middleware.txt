@@ -1,0 +1,8 @@
+Les middlewares sont comme des gardes à l’entrée. Ils vérifient ou modifient les requêtes avant d’aller plus loin.
+
+Exemples :
+Vérifier si l’utilisateur est connecté (auth)
+
+Vérifier si c’est un admin
+
+Logger chaque requête
